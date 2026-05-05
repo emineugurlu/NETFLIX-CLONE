@@ -1,9 +1,10 @@
 # 🎬 CinemaStream: Scalable Netflix UI Architecture
 
-> **"A deep dive into the mechanics of the CSS Box Model and spatial orchestration: Relative, Absolute, Fixed, and Sticky."**
-![GitHub language count](https://img.shields.io/github/repo-size/emineugurlu/NETFLIX-CLONE?color=red)
-![GitHub language count](https://img.shields.io/github/languages/count/emineugurlu/NETFLIX-CLONE)
-![GitHub language count](https://img.shields.io/badge/Deployment-Live-success)
+> **"A high-fidelity re-engineering of the Netflix interface, focusing on modular CSS grid systems and cinematic user experience."**
+
+![Repo Size](https://img.shields.io/github/repo-size/emineugurlu/NETFLIX-CLONE?color=red&style=flat-square)
+![Language Count](https://img.shields.io/github/languages/count/emineugurlu/NETFLIX-CLONE?color=red&style=flat-square)
+![Deployment](https://img.shields.io/badge/Deployment-Live-success?style=flat-square&logo=github)
 
 This project is a technical deep dive into building complex, media-heavy web interfaces. By replicating the Netflix ecosystem, I focused on solving common frontend challenges: handling large-scale asset grids, maintaining aspect ratios across devices, and implementing interactive UI components without performance bottlenecks.
 
