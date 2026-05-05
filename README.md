@@ -1,6 +1,5 @@
 # 🎬 CinemaStream: Scalable Netflix UI Architecture
 
-
 > **"A high-fidelity re-engineering of the Netflix interface, focusing on modular CSS grid systems and cinematic user experience."**
 
 ![Repo Size](https://img.shields.io/github/repo-size/emineugurlu/NETFLIX-CLONE?color=red&style=flat-square)
@@ -42,13 +41,10 @@ This clone serves as a laboratory for **Modern Layout Engines**:
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/emineugurlu/NETFLIX-CLONE.git](https://github.com/emineugurlu/NETFLIX-CLONE.git)
+   
 2. **Execute:**
    ````bash
-   cd NETFLIX-CLONE
-   
+   cd NETFLIX-CLONE  
    open index.html
 
 Developed with a focus on UI precision and frontend performance.
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/emineugurlu/NETFLIX-CLONE.git](https://github.com/emineugurlu/NETFLIX-CLONE.git)
