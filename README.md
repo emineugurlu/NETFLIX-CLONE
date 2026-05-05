@@ -1,7 +1,5 @@
 # 🎬 CinemaStream: Scalable Netflix UI Architecture
 
-> **"A high-fidelity re-engineering of the Netflix interface, focusing on modular CSS grid systems, dynamic responsiveness, and cinematic user experience."**
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/emineugurlu/NETFLIX-CLONE?color=red)
 ![GitHub language count](https://img.shields.io/github/languages/count/emineugurlu/NETFLIX-CLONE)
 ![Deployment](https://img.shields.io/badge/Deployment-Live-success)
